@@ -7,7 +7,7 @@ meshDGP：opensource mesh processing framework by c sharp.
 The new version of meshDGP is available on Wechat Subscribe Account “可计算离散整体几何结构”
 ![cff2f1b8305cc87da5b15ae8819bab8](https://github.com/meshdgp/meshDGP-Plus/assets/12958901/878e0aeb-9677-4133-b06f-de04ec88af71)
 
-
+![clipImg](https://github.com/meshdgp/meshDGP-Plus/assets/12958901/ada81164-526b-4bb6-b853-d18465264dc2)
  
 
 The new version Download link： 
@@ -45,7 +45,7 @@ https://mp.weixin.qq.com/s/3Wi5bypmde-QWXp75KyW6w
 ![image](https://github.com/meshdgp/meshDGP-Plus/assets/12958901/c5328ffa-8990-4e47-9312-baaf2ca36cd4)
 
 
-![clipImg](https://github.com/meshdgp/meshDGP-Plus/assets/12958901/ada81164-526b-4bb6-b853-d18465264dc2)
+ 
 
 you can search wechat Subscribe Account by sogou：
 
