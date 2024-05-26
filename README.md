@@ -19,6 +19,7 @@ https://mp.weixin.qq.com/s/Fy0BS1ii0MbT6XRjy5ZuGg
 
 ![clipImg](https://github.com/meshdgp/meshDGP-Plus/assets/12958901/ada81164-526b-4bb6-b853-d18465264dc2)
 
+you can search wechat Subscribe Account by sogou：
 
 https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=y&_sug_type_=&type=2&query=%E5%8F%AF%E8%AE%A1%E7%AE%97%E7%A6%BB%E6%95%A3%E6%95%B4%E4%BD%93%E5%87%A0%E4%BD%95%E7%BB%93%E6%9E%84&w=01019900&sut=6610&sst0=1716735509017&lkt=4%2C1716735502332%2C1716735508908
 
