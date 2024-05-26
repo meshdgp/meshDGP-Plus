@@ -1,4 +1,7 @@
 # meshDGP Plus
+
+meshDGP：mesh processing framework by c sharp.
+
 《可计算离散整体几何结构》实验室出品 powered by Computational Discrete Global Geometric Structures
 
 The new version of meshDGP is available on Wechat Subscribe Account “可计算离散整体几何结构”
@@ -15,6 +18,31 @@ https://mp.weixin.qq.com/s/zLjl7bUBOYygnVyRGEar8g
 https://mp.weixin.qq.com/s/bydA_SMV-Hu1VHYOhrvsGA
 
 https://mp.weixin.qq.com/s/Fy0BS1ii0MbT6XRjy5ZuGg
+
+
+
+赵辉老师开发meshdgp自从2014年以来，粗略估计全国有四五万理工科老师学生工程师进行学习和使用。
+
+采用c sharp编程语言目的是容易学习，从而方便初学者入门，和专家聚焦在算法上，而不是编程技术上。
+
+也对常用的c++模型处理库，MATLAB等加了调用接口。
+
+具有交互界面和菜单，更加方便学习。
+
+采用先进软件架构和设计模式，从而更加适合学生学习算法和增加新功能。
+
+近十年来被计算机图形学、力学分析、微分几何、虚拟现实、生物材料、CADCAE、有限元分析、工业软件等等学科的人员采用在教学、科研、工程上。
+
+新一代相关专业的学生和年轻学者很多都是通过meshDGP入门的。
+
+相关五本教材目前被全国多所高校采用作为“计算机图形学”课程的教材。
+
+https://mp.weixin.qq.com/s/Ur_2NggHLrnH_4NlSuXECg
+
+
+https://mp.weixin.qq.com/s/3Wi5bypmde-QWXp75KyW6w
+
+![image](https://github.com/meshdgp/meshDGP-Plus/assets/12958901/c5328ffa-8990-4e47-9312-baaf2ca36cd4)
 
 
 ![clipImg](https://github.com/meshdgp/meshDGP-Plus/assets/12958901/ada81164-526b-4bb6-b853-d18465264dc2)
