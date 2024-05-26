@@ -1,6 +1,6 @@
 # meshDGP Plus
 
-meshDGP：mesh processing framework by c sharp.
+meshDGP：opensource mesh processing framework by c sharp.
 
 《可计算离散整体几何结构》实验室出品 powered by Computational Discrete Global Geometric Structures
 
@@ -21,7 +21,7 @@ https://mp.weixin.qq.com/s/Fy0BS1ii0MbT6XRjy5ZuGg
 
 
 
-赵辉老师开发meshdgp自从2014年以来，粗略估计全国有四五万理工科老师学生工程师进行学习和使用。
+赵辉老师开发的开源meshdgp自从2014年以来，粗略估计全国有四五万理工科老师学生工程师进行学习和使用。
 
 采用c sharp编程语言目的是容易学习，从而方便初学者入门，和专家聚焦在算法上，而不是编程技术上。
 
